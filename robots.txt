@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luthresauriane.github.io/site-coffee/sitemap.xml
